@@ -53,6 +53,12 @@
     <version>7.7.0</version>
     <scope>test</scope>
 </dependency>
+<!-- Removed the problematic dependency -->
+<!--<dependency>
+    <groupId>TestNG</groupId>
+    <artifactId>Axis</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+</dependency>-->
 
 
 <dependency>
