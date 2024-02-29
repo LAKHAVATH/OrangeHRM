@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T01:20:06 IST" name="Suite" finished-at="2024-03-01T01:22:38 IST" duration-ms="151889">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T01:20:06 IST" name="Test" finished-at="2024-03-01T01:22:38 IST" duration-ms="151889">
+      <class name="Orange.HRM.EmergencyContact">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Orange.HRM.EmergencyContact@79924b]" started-at="2024-03-01T01:20:23 IST" name="setup" finished-at="2024-03-01T01:20:24 IST" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN()[pri:0, instance:Orange.HRM.EmergencyContact@79924b]" started-at="2024-03-01T01:20:24 IST" name="LOGIN" finished-at="2024-03-01T01:20:35 IST" duration-ms="10528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOGIN -->
+        <test-method is-config="true" signature="addContact()[pri:0, instance:Orange.HRM.EmergencyContact@79924b]" started-at="2024-03-01T01:20:35 IST" name="addContact" finished-at="2024-03-01T01:20:40 IST" duration-ms="5540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+      </class> <!-- Orange.HRM.EmergencyContact -->
+      <class name="Orange.HRM.login1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Orange.HRM.login1@479d31f3]" started-at="2024-03-01T01:20:06 IST" name="setup" finished-at="2024-03-01T01:20:08 IST" duration-ms="2230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN()[pri:0, instance:Orange.HRM.login1@479d31f3]" started-at="2024-03-01T01:20:08 IST" name="LOGIN" finished-at="2024-03-01T01:20:23 IST" duration-ms="15444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOGIN -->
+      </class> <!-- Orange.HRM.login1 -->
+      <class name="Orange.HRM.AddAttachment">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Orange.HRM.AddAttachment@4cc451f2]" started-at="2024-03-01T01:21:21 IST" name="setup" finished-at="2024-03-01T01:21:22 IST" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN()[pri:0, instance:Orange.HRM.AddAttachment@4cc451f2]" started-at="2024-03-01T01:21:22 IST" name="LOGIN" finished-at="2024-03-01T01:22:30 IST" duration-ms="68222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOGIN -->
+        <test-method is-config="true" signature="Attachment()[pri:0, instance:Orange.HRM.AddAttachment@4cc451f2]" started-at="2024-03-01T01:22:30 IST" name="Attachment" finished-at="2024-03-01T01:22:38 IST" duration-ms="7496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Attachment -->
+      </class> <!-- Orange.HRM.AddAttachment -->
+      <class name="Orange.HRM.AddImmigration">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Orange.HRM.AddImmigration@4a94ee4]" started-at="2024-03-01T01:20:59 IST" name="setup" finished-at="2024-03-01T01:21:00 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN()[pri:0, instance:Orange.HRM.AddImmigration@4a94ee4]" started-at="2024-03-01T01:21:00 IST" name="LOGIN" finished-at="2024-03-01T01:21:14 IST" duration-ms="14016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOGIN -->
+        <test-method is-config="true" signature="add()[pri:0, instance:Orange.HRM.AddImmigration@4a94ee4]" started-at="2024-03-01T01:21:14 IST" name="add" finished-at="2024-03-01T01:21:21 IST" duration-ms="6982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- Orange.HRM.AddImmigration -->
+      <class name="Orange.HRM.Deleteimmigration">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Orange.HRM.Deleteimmigration@7b9a4292]" started-at="2024-03-01T01:20:40 IST" name="setup" finished-at="2024-03-01T01:20:41 IST" duration-ms="1039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN()[pri:0, instance:Orange.HRM.Deleteimmigration@7b9a4292]" started-at="2024-03-01T01:20:41 IST" name="LOGIN" finished-at="2024-03-01T01:20:53 IST" duration-ms="11354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOGIN -->
+        <test-method is-config="true" signature="first()[pri:0, instance:Orange.HRM.Deleteimmigration@7b9a4292]" started-at="2024-03-01T01:20:53 IST" name="first" finished-at="2024-03-01T01:20:59 IST" duration-ms="5845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+      </class> <!-- Orange.HRM.Deleteimmigration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
