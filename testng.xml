@@ -5,7 +5,7 @@
     <classes>
       <class name="Orange.HRM.login1"/>
       <class name="Orange.HRM.EmergencyContact"/>
-      <class name="Orange.HRM.AddImmigration"/>
+      <class name="Orange.HRM.Deleteimmigration"/>
       <class name="Orange.HRM.AddAttachment"/>
     </classes>
   </test> <!-- Test -->
